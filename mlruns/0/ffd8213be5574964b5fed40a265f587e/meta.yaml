@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/End1/mlruns/0/ffd8213be5574964b5fed40a265f587e/artifacts
+end_time: 1735879805309
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ffd8213be5574964b5fed40a265f587e
+run_name: bittersweet-boar-359
+run_uuid: ffd8213be5574964b5fed40a265f587e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735879781845
+status: 3
+tags: []
+user_id: verseelia
