@@ -1,0 +1,6 @@
+[2025-01-03 15:05:22,785] 1025 httpx - INFO -HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK" 
+[2025-01-03 15:05:22,796] 107 dagshub - INFO -Accessing as verseeliafrancis1503 
+[2025-01-03 15:05:26,119] 1025 httpx - INFO -HTTP Request: GET https://dagshub.com/api/v1/repos/verseeliafrancis1503/Networksecurity "HTTP/1.1 200 OK" 
+[2025-01-03 15:05:30,602] 1025 httpx - INFO -HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK" 
+[2025-01-03 15:05:30,606] 107 dagshub - INFO -Initialized MLflow to track repo "verseeliafrancis1503/Networksecurity" 
+[2025-01-03 15:05:30,606] 107 dagshub - INFO -Repository verseeliafrancis1503/Networksecurity initialized! 
